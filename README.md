@@ -1,20 +1,15 @@
 ## Hi there 👋
 
 ## My Stats 📈
-<Table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanchua00&theme=moltack" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanchua00&hide=ruby&layout=compact&langs_count=8&theme=moltack" />
-      </a>
-    </td>
-  </tr>
-</Table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanchua00&theme=moltack" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanchua00&hide=ruby&layout=compact&langs_count=8&theme=moltack" />
+  </a>
+</div>
+
 
 
 
