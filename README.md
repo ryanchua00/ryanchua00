@@ -6,7 +6,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanchua00&theme=moltack" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanchua00&hide=ruby&layout=compact&langs_count=8&theme=moltack" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanchua00&hide=ruby&layout=compact&langs_count=8&theme=moltack" style="flex-grow: 1; max-width: 100%;"/>
   </a>
 </div>
 
